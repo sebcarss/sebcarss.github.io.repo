@@ -6,7 +6,7 @@
     "develop": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
-    "deploy": "gatsby build && git subtree push --prefix public sebcarssdotcom master"
+    "deploy": "rm -rf ./public/ && gatsby build && git subtree push --prefix public sebcarssdotcom master"
   },
   "dependencies": {
     "gatsby": "^1.9.250",
