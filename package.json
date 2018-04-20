@@ -13,6 +13,7 @@
     "gatsby-link": "^1.6.40",
     "gatsby-plugin-typography": "^1.7.18",
     "typography-theme-bootstrap": "^0.16.7",
-    "typography-theme-lawton": "^0.15.10"
+    "typography-theme-lawton": "^0.15.10",
+    "typography-theme-lincoln": "^0.15.11"
   }
 }
