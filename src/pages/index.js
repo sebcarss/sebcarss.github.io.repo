@@ -2,5 +2,5 @@ import React from "react";
 
 export default () =>
     <div>
-        <p>...coming soon!</p>
+        <h3>...coming soon!</h3>
     </div>
