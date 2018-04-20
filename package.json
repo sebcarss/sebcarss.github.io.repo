@@ -1,6 +1,6 @@
 {
-  "name": "gatsby-starter-hello-world",
-  "description": "Gatsby hello world starter",
+  "name": "www.sebcarss.com",
+  "description": "My personal blog at sebcarss.com",
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
