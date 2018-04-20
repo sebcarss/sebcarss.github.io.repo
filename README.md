@@ -22,9 +22,10 @@ Then go to http://localhost:8000/ to see your site and it will update automagica
 React component.
 
 ## Publishing to www.sebcarss.com
-`gatsby build`
+Update the version in the configfile, e.g. `version 1.0.1` then run `gatsby deploy`
 
-Then push the contents of the `/public/` folder to the `sebcarss.github.io` repo in Github. 
+This will delete all the files in `public/` then run `gatsby build` and finally call the
+./deployToGithub.sh script to push the changes to the `sebcarss.github.io` repository.
 
 ### TODO: Imporoving deployment with CICD
 Create a Jenkins server using a Raspberry Pi to poll the `sebcarss.github.io.repo` for changes and to 
