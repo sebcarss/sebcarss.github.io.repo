@@ -18,7 +18,7 @@ to get a site up and running and also allows me to learn React, which was new to
 ## Running in development
 `gatsby develop`
 
-Then go to [http://localhost:8000/] to see your site and it will update automagically when you change a 
+Then go to http://localhost:8000/ to see your site and it will update automagically when you change a 
 React component.
 
 ## Publishing to www.sebcarss.com
