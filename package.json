@@ -13,6 +13,7 @@
     "gatsby-link": "^1.6.40",
     "gatsby-plugin-glamor": "^1.6.13",
     "gatsby-plugin-typography": "^1.7.18",
+    "gatsby-source-filesystem": "^1.5.33",
     "glamorous": "^4.12.4",
     "npm": "^5.8.0",
     "typography-theme-bootstrap": "^0.16.7",
