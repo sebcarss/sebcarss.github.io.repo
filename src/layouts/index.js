@@ -18,6 +18,7 @@ export default ({ children }) => (
                 <ListLink to="/">Root</ListLink>
                 <ListLink to="/home/">Home</ListLink>
                 <ListLink to="/about-css-modules/">About CSS Modules</ListLink>
+                <ListLink to="/GraphQL/">GraphQL</ListLink>
             </ul>
         </header>
         {children()}
