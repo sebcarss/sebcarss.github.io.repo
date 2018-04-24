@@ -1,26 +1,30 @@
 import React from "react";
-import Link from "gatsby-link";
+import styles from "../css/global.module.css"
+import Responsive from "react-responsive";
+import Header from "../components/header";
 
-const ListLink = props =>
-    <li style={{ display: `inline-block`, marginRight: `1rem` }}>
-        <Link to={props.to}>
-            {props.children}
-        </Link>
-    </li>
+export default ({ children }) => {
+    const Desktop = props => <Responsive {...props} minWidth={992} />;
+    const Tablet = props => <Responsive {...props} minWidth={768} maxWidth={991} />;
+    const Mobile = props => <Responsive {...props} maxWidth={767} />;
 
-export default ({ children }) => (
-    <div style={{ margin: `0 auto`, maxWidth: 650, padding: `1.25rem 1rem` }}>
-        <header style={{ marginBottom: `1.5rem` }}>
-            <Link to="/" style={{ textShadow: `none`, backgroundImage: `none` }}>
-                <h3 style={{ display: `inline` }}>SebCarss.com</h3>
-            </Link>
-            <ul style={{ listStyle: `none`, float: `right` }}>
-                <ListLink to="/">Root</ListLink>
-                <ListLink to="/home/">Home</ListLink>
-                <ListLink to="/about-css-modules/">About CSS Modules</ListLink>
-                <ListLink to="/GraphQL/">GraphQL</ListLink>
-            </ul>
-        </header>
-        {children()}
-    </div>
-);
+    return (
+        <div className={styles.global}>
+            {/* Header component spans the full width */}
+            <Desktop>
+                <Header textAlign="left" />
+            </Desktop>
+            <Tablet>
+                <Header textAlign="left" />
+            </Tablet>
+            <Mobile>
+                <Header textAlign="center" />
+            </Mobile>
+
+            {/* Body component spans 650w */}
+            <div style={{ margin: `0 auto`, maxWidth: 650, padding: `1.25rem 1rem` }}>
+                {children()}
+            </div>
+        </div>
+    );
+};
