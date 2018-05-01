@@ -16,10 +16,12 @@ to get a site up and running and also allows me to learn React, which was new to
 
 
 ## Running in development
-`gatsby develop`
+`gatsby develop --host <computer-name>.local`
 
 Then go to http://localhost:8000/ to see your site and it will update automagically when you change a 
 React component.
+
+To view the site on a mobile device go to http://<computer-name>.local:8000/
 
 ## Publishing to www.sebcarss.com
 Update the version in the configfile, e.g. `version 1.0.1` then run `gatsby deploy`
