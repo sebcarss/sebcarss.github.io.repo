@@ -16,23 +16,31 @@ to get a site up and running and also allows me to learn React, which was new to
 
 
 ## Running in development
+### Locally
+This is the best option if you want to just test on you local machine using the web browser and emulator for mobile.
+
+`gatsby develop`
+
+Then go to http://localhost:8000/ to see your site and it will update
+automagically when you change a React component
+
+### On your local area network
+If you want to test on a real device then you can do so over your LAN. 
+
 `gatsby develop --host <computer-name>.local`
 
-Then go to http://localhost:8000/ to see your site and it will update automagically when you change a 
-React component.
+Then go to http://<computer-name>.local:8000/ to see your site and it will update automagically when you change a React component.
 
 To view the site on a mobile device go to http://<computer-name>.local:8000/
+
+## Testing the Production site
+`gatsby build && gatsby serve`
 
 ## Publishing to www.sebcarss.com
 Update the version in the configfile, e.g. `version 1.0.1` then run `gatsby deploy`
 
 This will delete all the files in `public/` then run `gatsby build` and finally call the
 ./deployToGithub.sh script to push the changes to the `sebcarss.github.io` repository.
-
-### TODO: Imporoving deployment with CICD
-Create a Jenkins server using a Raspberry Pi to poll the `sebcarss.github.io.repo` for changes and to 
-run `gatsby build` against the repo then push the contents of the `/public/` folder to `sebcarss.github.io`
-automatically, overriding the entire contents in the repo. 
 
 # Getting Started with Gatsby
 ## gatsby-starter-hello-world
