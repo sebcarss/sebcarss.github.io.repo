@@ -30,7 +30,12 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
         }
       `
         ).then(result => {
+            console.log(`\n`)
+            console.log(`######################`)
+            console.log(`### CREATING PAGES ###`)
+            console.log(`######################`)
             result.data.allMarkdownRemark.edges.forEach(({ node }) => {
+                console.log(`  >`, node.fields.slug)
                 createPage({
                     path: node.fields.slug,
                     component: path.resolve(`./src/templates/blog-post.js`),
@@ -40,6 +45,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
                     },
                 })
             })
+            console.log(`\n`)
             resolve()
         })
     })

@@ -1,5 +1,5 @@
 ---
-title: "The Chronicles of Bread"
+title: "The Bread Chronicles: KitchenAid to the Rescue"
 date: "2018-05-09"
 ---
 

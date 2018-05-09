@@ -1,5 +1,5 @@
 ---
-title: "Pizza Diaries: My First Outdoor Pizza"
+title: "Pizza Diaries: BBQ Pizza"
 date: "2018-05-08"
 ---
 
