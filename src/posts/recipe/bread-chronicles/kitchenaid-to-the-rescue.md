@@ -20,6 +20,7 @@ Here is my list of bread variables to play with and my starting recipe.
 - Techniques
     - How warm the water is
     - Where to add the yeast to, e.g. water, flour?
+    - Which type of yeast to use: fast-acting, dried or fresh (instant?)
     - How long to knead
     - What speed to knead at
     - How long to proof
@@ -41,7 +42,7 @@ Here is my list of bread variables to play with and my starting recipe.
 
 - 400g strong white flour
 - 8g salt
-- 7g instant yeast
+- 7g fast-acting yeast
 - 25g unsalted butter, softened
 - 250ml warm water
 - Olive oil, for proofing
@@ -66,6 +67,7 @@ Here is my list of bread variables to play with and my starting recipe.
 
 ## Notes
 
+- Type of flour used was Tesco Strong White Bread Flour
 - House temperature is 19.5ºC @ 8:00 rising to 20.5ºC @ 10:30
 - Proofing from 8:00-11:00
 - KitchenAid bowl was almost clean with a few remnants around the sides. 
@@ -75,11 +77,32 @@ Here is my list of bread variables to play with and my starting recipe.
 - After the second proof the dough was still sticky to touch and was not springy as Paul had mentioned. 
 - Scoring with a very sharp pairing knife just pulled the bread rather than cut. This could be because the dough was too wet but it could also be because I used a pairing knife when I should have used a sharp serrated knife like Paul said to use. 
 - The oven took a whole 15 minutes to come up to 220ºC, which is worth bearing in mind.
+- Dough wasn't appearing to rise much in the oven.
+- The dough did not rise at all in the oven and the bread felt dense and when tapped there was a thud rather than a hollow sound. 
+- The smell was lovely.
+- The flavour of the bread was lovely, especially with butter but the texture was dense and the dough felt under cooked. 
+- The crust was wonderful, very light and springy but also crisp. 
 
 ## Things to change for next time
 
-According to this website the optimum temperature for proofing (sour dough) bread is 27ºC and Paul Hollywood expects proofing of this dough misture to be between 1-3 hours for it to double in size. After 3 hours it should have doubled - I don't think this has. Therefore, I can only surmise that that temperature for the fermentation was not high enough.
+### Fermentation temperature
+
+According to this website the optimum temperature for proving (sour dough) bread is 27ºC and Paul Hollywood expects proofing of this dough misture to be between 1-3 hours for it to double in size. After 3 hours it should have doubled - I don't think this has. Therefore, I can only surmise that that temperature for the fermentation was not high enough.
 
 https://www.weekendbakery.com/posts/a-few-tips-on-dough-temperature/
 
 So next time I should try preheating the oven to around 30ºC and then turning it off and putting the dough in the over to proof.
+
+### Sugar
+
+I didn't put any sugar in this recipe because Paul Hollywood's 'Basic White Tin Bread' recipe does not have any in it. However, yeast feeds off sugar to release carbon dioxide, which helps the bread to rise so adding some in at the beginning will speed up the rising process. 
+
+http://www.homemadeloaves.co.uk/2012/09/why-use-sugar-in-bread-dough.html
+
+So another time I need to add sugar to see the difference. 
+
+### Fermentation time
+
+Finally, it is possible to leave dough to rise in the fridge overnight and this can lead to a more sour bread
+
+https://www.nigella.com/ask/proving-bread-overnight
