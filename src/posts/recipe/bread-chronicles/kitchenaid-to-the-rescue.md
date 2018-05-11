@@ -53,6 +53,10 @@ Here is my list of bread variables to play with and my starting recipe.
 5. Pour the flour, salt and butter into the bowl. 
 6. Turn the KitchenAid speed up to 2 and leave for 10 minutes.
 7. Put some oil on your hand, take the dough off the hook and roll into a ball then put back into the KitchenAid bowl and clingfilm and leave to proof for 3 hours.
+8. Put magic mat at the base of a loaf tin (what size?) and oiled the sides of the tin with olive oil.
+9. Floured wooden chopping board, rolled dough out of bowl and knocked back gently.
+10. Rolled into sausage shape and then put in the loaf tin with the seal at the bottom. 
+11. Covered with clingfilm and left to proof again for 1 hour.
 
 ## Notes
 
@@ -61,6 +65,7 @@ Here is my list of bread variables to play with and my starting recipe.
 - KitchenAid bowl was almost clean with a few remnants around the sides. 
 - The dough was slightly sticky, where holding it for too long would require some effort in getting it off but would generally come off clean. It required realtively quick hands to stop it sticking a little olive oil helped to keep it from sticking. 
 - The date is 11th May 2018, which may have an effect on end result (can check each month for variances in bread)
+- The second proof started at 11:00 and the temperature in the house was 20.5ºC
 
 ## Things to change for next time
 
