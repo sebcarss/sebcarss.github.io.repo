@@ -2,7 +2,7 @@
 series: "Bread Chronicles"
 title: "KitchenAid to the Rescue"
 date: "2018-05-09"
-published: "false"
+published: "true"
 ---
 
 Here is my list of bread variables to play with and my starting recipe. 
