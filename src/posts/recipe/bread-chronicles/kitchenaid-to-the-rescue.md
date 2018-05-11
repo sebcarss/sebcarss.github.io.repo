@@ -32,6 +32,8 @@ Here is my list of bread variables to play with and my starting recipe.
     - Size of loaf
     - Time of year
     - Time of day
+    - Water in oven or not
+    - Once baked cool on rack uncovered or covered with tea towel
     
 # My White Bread Loaf
 
