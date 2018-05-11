@@ -2,7 +2,7 @@
 series: "Pizza Diaries"
 title: "Cooking Pizza on a BBQ"
 date: "2018-05-08"
-published: "false"
+published: "true"
 ---
 
 Welcome to the first installment of my Pizza Diaries!
