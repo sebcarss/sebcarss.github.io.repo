@@ -30,6 +30,8 @@ Here is my list of bread variables to play with and my starting recipe.
     - Type of loaf created: box loaf, cob, baguette, etc.
     - Time in oven
     - Size of loaf
+    - Time of year
+    - Time of day
     
 # My White Bread Loaf
 
@@ -54,7 +56,16 @@ Here is my list of bread variables to play with and my starting recipe.
 
 ## Notes
 
-- House temperature is 19.5ºC
+- House temperature is 19.5ºC @ 8:00 rising to 20.5ºC @ 10:30
 - Proofing from 8:00-11:00
 - KitchenAid bowl was almost clean with a few remnants around the sides. 
 - The dough was slightly sticky, where holding it for too long would require some effort in getting it off but would generally come off clean. It required realtively quick hands to stop it sticking a little olive oil helped to keep it from sticking. 
+- The date is 11th May 2018, which may have an effect on end result (can check each month for variances in bread)
+
+## Things to change for next time
+
+According to this website the optimum temperature for proofing (sour dough) bread is 27ºC and Paul Hollywood expects proofing of this dough misture to be between 1-3 hours for it to double in size. After 3 hours it should have doubled - I don't think this has. Therefore, I can only surmise that that temperature for the fermentation was not high enough.
+
+https://www.weekendbakery.com/posts/a-few-tips-on-dough-temperature/
+
+So next time I should try preheating the oven to around 30ºC and then turning it off and putting the dough in the over to proof.
