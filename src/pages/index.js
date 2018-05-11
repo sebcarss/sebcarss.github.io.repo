@@ -7,12 +7,13 @@ export default ({ data }) => {
     return (
         <div>
             {data.allMarkdownRemark.edges.map(({ node }) => (
-                <div key={node.id}>
+                <div key={node.id} style={{ borderBottom: `solid 1px teal` }}>
                     <Link
                         to={node.fields.slug}
                         style={{ textDecoration: `none`, color: `inherit` }}
                     >
-                        <h3>{node.frontmatter.title}</h3>
+                        <h3 style={{ marginBottom: `-0.25em`, color: `#585858` }}>{node.frontmatter.title}</h3>
+                        <div style={{ color: `teal` }}>{node.frontmatter.series}</div>
                         <div style={{ color: `#BBB` }}>{node.frontmatter.date}</div>
                     </Link>
                 </div>
@@ -23,11 +24,12 @@ export default ({ data }) => {
 
 export const query = graphql`
     query IndexQuery {
-        allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}) {
+        allMarkdownRemark(filter: {frontmatter: {published: {eq: "true"}}}, sort: {fields: [frontmatter___date], order: DESC}) {
             edges {
                 node {
                     id
                     frontmatter {
+                        series
                         title
                         date(formatString: "DD MMMM YYYY")
                     }
