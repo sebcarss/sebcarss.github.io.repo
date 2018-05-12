@@ -5,6 +5,12 @@ date: "2018-05-09"
 published: "true"
 ---
 
+Is there anything better than the smell of freshly baked bread? Maybe the smell of freshly brewed coffee on a warm summer morning, but then that could be because that scenario goes so well with a freshly baked baguette from a boulangerie on a summer holiday in France. Bread has such a lovely smell that people bake bread before showing their house to prospective buyers in a bid to make them feel the house is the right one for them, as if by magic the smell of bread will make them see passed the hole in the ceiling! 
+
+## My failings with bread
+
+I like to think I'm a relatively good cook but for some reason, when it comes to bread, I seem to fail quite a lot. Every so often bread will come out edible although it is not particularly better than store bought bread! But most of the time it is too dense for anything other than toasting. So this series is to help me get better and making bread by experimentation. 
+
 Here is my list of bread variables to play with and my starting recipe. 
 
 - Ingredients (measurements)
