@@ -26,3 +26,9 @@ And this is where the story begins...
 ## Finding a replacement forno
 
 https://www.aldi.co.uk/gardenline-bbq-pizza-oven/p/083072199802200
+
+## Left-over dough storage
+
+lightly oiled the left-over dough and stored them in a vacuum sealed bag and froze them for another day. 
+
+For pizza post #2: Defrosted them in the fridge for 24 hours then used them to make pizza and they were perfect. 
