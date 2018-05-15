@@ -13,6 +13,22 @@ module.exports = {
                 path: `${__dirname}/src/`,
             },
         },
-        `gatsby-transformer-remark`,
+        `gatsby-plugin-sharp`,
+        {
+            resolve: `gatsby-transformer-remark`,
+            options: {
+                plugins: [
+                    {
+                        resolve: `gatsby-remark-images`,
+                        options: {
+                            // See options for more detais https://www.gatsbyjs.org/packages/gatsby-remark-images/
+                            maxWidth: 650,
+                            linkImagesToOriginal: true,
+                            showCaptions: false,
+                        }
+                    }
+                ]
+            }
+        }
     ],
 };
