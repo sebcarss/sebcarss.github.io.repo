@@ -10,43 +10,6 @@ tags: [
     "bread"
     ]
 ---
-
-The problem I have with experimenting with bread, is the amount of time and effort it takes to knead the bread and get it in the oven. Kneading dough is something I just don't get enjoyment out of, and that means if the bread doesn't work out after following a recipe, I lose interest relatively quickly. I thought about how I could resolve this problem and the obvious and sensible solution was to buy a KitchenAid stand mixer to do the kneading for me.
-
-![KitchenAid to the rescue!](./kitchenaid-to-the-rescue.jpg)
-
-## What makes good bread?
-
-Here is my list of bread variables to play with and my starting recipe. 
-
-- Ingredients (measurements)
-    - Flour
-    - Water
-    - Yeast
-    - Salt
-    - Sugar
-    - Oil
-    - Milk
-    - Butter
-    - Flavourings (seeds, nuts, fruit, etc)
-- Techniques
-    - How warm the water is
-    - Where to add the yeast to, e.g. water, flour?
-    - Which type of yeast to use: fast-acting, dried or fresh (instant?)
-    - How long to knead
-    - What speed to knead at
-    - How long to proof
-    - Proof in: metal bowl with clingfilm, proofing basket with tea towel, etc. 
-    - Double proof?
-    - Proof temperature
-    - Oven temperature
-    - Type of loaf created: box loaf, cob, baguette, etc.
-    - Time in oven
-    - Size of loaf
-    - Time of year
-    - Time of day
-    - Water in oven or not
-    - Once baked cool on rack uncovered or covered with tea towel   
     
 # My White Bread Loaf
 
