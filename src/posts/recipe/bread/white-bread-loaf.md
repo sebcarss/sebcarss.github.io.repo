@@ -1,6 +1,6 @@
 ---
 series: "Bread Chronicles"
-title: "White Bread"
+title: "White Bread Loaf"
 date: "2018-05-09"
 published: "true"
 recipe: "White Bread Loaf"
@@ -11,13 +11,7 @@ tags: [
     ]
 ---
 
-Is there anything better than the smell of freshly baked bread? Maybe the smell of freshly brewed coffee on a warm summer morning, but then that could be because that scenario goes so well with a freshly baked baguette from a boulangerie on a summer holiday in France. Bread has such a lovely smell that people bake bread before showing their house to prospective buyers in a bid to make them feel the house is the right one for them, as if by magic the smell of bread will make them see passed the hole in the ceiling! Personally, I think that's going a bit far but I do love walking into a house when bread is being baked and therefore it only makes sense for me to bake my own bread so I can enjoy that wonderful scent every weekend. 
-
-## My failings with bread
-
-I like to think I'm a relatively good cook but for some reason, when it comes to bread, I seem to fail quite a lot. Every so often bread will come out edible although it is not particularly better than store bought bread! But most of the time it is too dense for anything other than toasting. So this series is to help me get better at making bread through experimentation.
-
-However, the problem I have with experimenting with bread, is the amount of time and effort it takes to knead the bread and get it in the oven. Kneading dough is something I just don't get enjoyment out of, and that means if the bread doesn't work out after following a recipe, I lose interest relatively quickly. I thought about how I could resolve this problem and the obvious and sensible solution was to buy a KitchenAid stand mixer to do the kneading for me.
+The problem I have with experimenting with bread, is the amount of time and effort it takes to knead the bread and get it in the oven. Kneading dough is something I just don't get enjoyment out of, and that means if the bread doesn't work out after following a recipe, I lose interest relatively quickly. I thought about how I could resolve this problem and the obvious and sensible solution was to buy a KitchenAid stand mixer to do the kneading for me.
 
 ![KitchenAid to the rescue!](./kitchenaid-to-the-rescue.jpg)
 

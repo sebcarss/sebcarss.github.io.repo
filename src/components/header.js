@@ -9,6 +9,9 @@ export default (props) => {
                 <Link to="/" style={{ textShadow: `none`, backgroundImage: `none`, textDecoration: `none`, color: `white` }}>
                     <h3 style={{ display: `inline`, fontFamily: `Courier New` }}>sebcarss.com</h3>
                 </Link>
+                <Link to="/bread-chronicles" style={{ textShadow: `none`, backgroundImage: `none`, textDecoration: `none`, color: `#CDCDCD` }}>
+                    <h4 style={{ display: `inline`, fontFamily: `Courier New` }}>The Bread Chronicles</h4>
+                </Link>
             </header>
         </div>
     );
