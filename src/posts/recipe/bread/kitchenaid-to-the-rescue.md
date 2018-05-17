@@ -1,6 +1,6 @@
 ---
 series: "Bread Chronicles"
-title: "KitchenAid to the Rescue"
+title: "White Bread"
 date: "2018-05-09"
 published: "true"
 recipe: "White Bread Loaf"
