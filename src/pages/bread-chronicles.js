@@ -41,39 +41,44 @@ export default ({ data }) => {
 
             <h2>What makes good bread?</h2>
 
-            <p>
-                Here is my list of bread variables to play with and my starting recipe. 
+            <div>
+                <p>
+                    Here is my list of bread variables to play with and my starting recipe. 
+                </p>
+                <h4>Ingredients (measurements)</h4>
+                <ul>
+                    <li>Flour</li>
+                    <li>Water</li>
+                    <li>Yeast</li>
+                    <li>Salt</li>
+                    <li>Sugar</li>
+                    <li>Oil</li>
+                    <li>Milk</li>
+                    <li>Butter</li>
+                    <li>Flavourings (seeds, nuts, fruit, etc)</li>
+                </ul>
 
-            - Ingredients (measurements)
-                - Flour
-                - Water
-                - Yeast
-                - Salt
-                - Sugar
-                - Oil
-                - Milk
-                - Butter
-                - Flavourings (seeds, nuts, fruit, etc)
-            - Techniques
-                - How warm the water is
-                - Where to add the yeast to, e.g. water, flour?
-                - Which type of yeast to use: fast-acting, dried or fresh (instant?)
-                - How long to knead
-                - What speed to knead at
-                - How long to proof
-                - Proof in: metal bowl with clingfilm, proofing basket with tea towel, etc. 
-                - Double proof?
-                - Proof temperature
-                - Oven temperature
-                - Type of loaf created: box loaf, cob, baguette, etc.
-                - Time in oven
-                - Size of loaf
-                - Time of year
-                - Time of day
-                - Water in oven or not
-                - Once baked cool on rack uncovered or covered with tea towel   
-
-            </p>
+                <h4>Techniques</h4>
+                <ul>
+                    <li>How warm the water is</li>
+                    <li>Where to add the yeast to, e.g. water, flour?</li>
+                    <li>Which type of yeast to use: fast-acting, dried or fresh (instant?)</li>
+                    <li>How long to knead</li>
+                    <li>What speed to knead at</li>
+                    <li>How long to proof</li>
+                    <li>Proof in: metal bowl with clingfilm, proofing basket with tea towel, etc. </li>
+                    <li>Double proof?</li>
+                    <li>Proof temperature</li>
+                    <li>Oven temperature</li>
+                    <li>Type of loaf created: box loaf, cob, baguette, etc.</li>
+                    <li>Time in oven</li>
+                    <li>Size of loaf</li>
+                    <li>Time of year</li>
+                    <li>Time of day</li>
+                    <li>Water in oven or not</li>
+                    <li>Once baked cool on rack uncovered or covered with tea towel</li>
+                </ul>
+            </div>
 
             <h2>Bread Recipes</h2>
 
