@@ -132,3 +132,13 @@ I baked the bread at 230ºC for 30 minutes with a kettle of water bubbling away 
 The bread was super light for a sandwich, to the point where making a heavy tuna mayo and salad sandwich for lunch would cause the bread to collapse by 12 o'clock, wrapped in foil and plonked in a fridge. As a fresh sandwich it was delicious and soft, and as toast later in the day it was sublimely crispy and light, almost as perfect as Artisan for having butter and apricot jam on. 
 
 The crust was too burnt and the curst was too crispy, need to figure out how to make a soft bread loaf (damp towel when it is resting maybe?). Wrapping the bread in a tea-towel to preserve seemed to help it with softening the crust. Even wrapping in a tea-towel kept the bread soft on the edges when toast was called for in the evening. 
+
+# Take 5: Cutting the fat
+
+Now that my bread is rising properly and I am actually baking edible bread, I can start changing the variables to understand what each component does to the shape, texture and flavour of the bread. So for this bread I am going to remove the fat, which in this case is the butter that I added. 
+
+The bread didn't rise as much as the loaf with butter in but still doubled in size on the first proving. When the loaf was baked it appeared to cook quicker so I took it out 7 minutes before the final time of 30 minutes, but I think this may have been premature. The last one was sligtly burnt though so 30 minutes is too long and maybe 25 minutes is the right time. 
+
+The bread was soft and airy, like a French baguette. It kept relatively well but to be honest it was gone within the day anyway. 
+
+I preferred the non-butter bread as it reminds me of the bread in France and they know how to make bread. 
