@@ -128,3 +128,7 @@ The dough was incredibly light, soft and supple to touch and knock back.
 After the second proof the dough had doubled again and was ready to be baked.
 
 I baked the bread at 230ºC for 30 minutes with a kettle of water bubbling away in the bottom of the oven to create a steamy environment so that the bread wouldn't crisp up too much.
+
+The bread was super light for a sandwich, to the point where making a heavy tuna mayo and salad sandwich for lunch would cause the bread to collapse by 12 o'clock, wrapped in foil and plonked in a fridge. As a fresh sandwich it was delicious and soft, and as toast later in the day it was sublimely crispy and light, almost as perfect as Artisan for having butter and apricot jam on. 
+
+The crust was too burnt and the curst was too crispy, need to figure out how to make a soft bread loaf (damp towel when it is resting maybe?). Wrapping the bread in a tea-towel to preserve seemed to help it with softening the crust. Even wrapping in a tea-towel kept the bread soft on the edges when toast was called for in the evening. 
