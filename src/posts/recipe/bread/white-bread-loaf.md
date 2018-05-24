@@ -25,11 +25,26 @@ In this, Paul suggests using instant yeast as he believes there is little differ
 >
 > When adding water to yeast, colder water will produce slow-rising doughs, which have more flavour because as yeast feeds on flour it releases alcohol and this flavours the bread. Using warm water to activate the yeast will cause the bread to rise rapidly and have less flavour.
 
-He also recommends using some unsalted butter to help the bread stay soft for longer, which may be important if you are making the bread for the week; and table salt to help flavour the bread and improve the gluten structure. He then leaves it to rise at 20-22ºC until it's doubled in size, which is roughly 1-2 hours. He does stress that the dough doubling in size is the key point here so don't take it out too soon. Once the dough has been knocked-back he then leaves the bread to prove in a loaf tin wrapped in a bag, for about an hour, until the dough is at least doubled in size and springs back quickly if prodded lightly. 
+He also recommends using some unsalted butter to help the bread stay soft for longer, which may be important if you are making the bread for the week; and table salt to help flavour the bread and improve the gluten structure. The last ingredient he uses is olive oil for helping with kneading, which is not an issue for people with a stand mixer, and for greasing the loaf tin. 
+
+He then leaves it to rise at 20-22ºC until it's doubled in size, which is roughly 1-2 hours. He does stress that the dough doubling in size is the key point here so don't take it out too soon. Once the dough has been knocked-back he then leaves the bread to prove in a loaf tin wrapped in a bag, for about an hour, until the dough is at least doubled in size and springs back quickly if prodded lightly. 
 
 Finally, he slashes the top of the dough, dusts lightly with flour and bakes in the oven with a roasting tray filled with boiling water, to create a steamy atmosphere that will help give a crisp, light crust and slight sheen. 
 
-###
+### Verdict
+
+Things to review: 
+
+- Taste
+- Texture of inner bread (short or long gluten; soft or dry)
+- Texture of crust (light, crunchy, hard)
+- How long it remains soft
+- Time taken to rise
+- Time taken to prove
+
+Other Notes: 
+
+- What effect does the oil have on the stickiness of the loaf to the tin compared to butter? 
 
 - 400g Tesco strong white flour
 - 8g table salt
