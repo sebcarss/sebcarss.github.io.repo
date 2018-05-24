@@ -11,7 +11,9 @@ tags: [
     ]
 ---
     
-# My White Bread Loaf
+# White Bread Loaf
+
+To me, white bread conjures up two specific treats: one is a deliciously soft bacon butty, with thick smoked back bacon and tomato ketchup; the other is a single slice, smeared with a thick layer of salted butter and a row of chip shop chips drenched in salt and vineger. White bread is a treat and such a wonderfully moreish treat it is. Buying white bread works well as it is easy but there is nothing better than freshly baked bread so for this post I will be reviewing recipes from famous chefs, experimenting with ingredients to see the effects it has on the end result and defining my perfect white loaf based on my findings. So if you love white bread and want a recipe that explains why it is best rather than just giving you the recipe, this is the place to come to. 
 
 ## Take 1: Warming the yeast
 
