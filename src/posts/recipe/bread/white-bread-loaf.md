@@ -10,12 +10,24 @@ tags: [
     "bread"
     ]
 ---
-    
-# White Bread Loaf
 
-To me, white bread conjures up two specific treats: one is a deliciously soft bacon butty, with thick smoked back bacon and tomato ketchup; the other is a single slice, smeared with a thick layer of salted butter and a row of chip shop chips drenched in salt and vineger. White bread is a treat and such a wonderfully moreish treat it is. Buying white bread works well as it is easy but there is nothing better than freshly baked bread so for this post I will be reviewing recipes from famous chefs, experimenting with ingredients to see the effects it has on the end result and defining my perfect white loaf based on my findings. So if you love white bread and want a recipe that explains why it is best rather than just giving you the recipe, this is the place to come to. 
+To me, white bread conjures up two specific treats: one is a deliciously soft bacon butty, with thick smoked back bacon and tomato ketchup; the other is a single slice, smeared with a thick layer of salted butter and a row of chip shop chips drenched in salt and vinegar. White bread is a treat and such a wonderfully moreish treat it is. Buying white bread works well as it is easy but there is nothing better than freshly baked bread so for this post I will be reviewing recipes from famous chefs, experimenting with ingredients to see the effects it has on the end result and defining my perfect white loaf based on my findings. So if you love white bread and want a recipe that explains why it is best rather than just giving you the recipe, this is the place to come to. 
 
-## Take 1: Warming the yeast
+## Paul Hollywood's Basic White Tin Bread
+
+First up is the dreamy-eyed Paul Hollywood and his basic white tin bread, which is found in his [How To Bake](https://www.amazon.co.uk/How-Bake-Paul-Hollywood/dp/140881949X/ref=sr_1_1_twi_har_2?ie=UTF8&qid=1527192202&sr=8-1&keywords=how+to+bake&dpID=51kRnw%252BT5xL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch) book. 
+
+__NOTE:// Replace with the affiliate link here for Amazon__
+
+In this, Paul suggests using instant yeast as he believes there is little difference made to the quality of the bread when compared to using fresh yeast. However, he does stress that it is pivitol that you get the temperature of the water right for making your dough, which he suggests is 15ºC, which is fairly cool to the touch. 
+
+> __Top Tip From Paul Hollywood__
+>
+> When adding water to yeast, colder water will produce slow-rising doughs, which have more flavour because as yeast feeds on flour it releases alcohol and this flavours the bread. Using warm water to activate the yeast will cause the bread to rise rapidly and have less flavour.
+
+He also recommends using some unsalted butter to help the bread stay soft for longer, which may be important if you are making the bread for the week; and table salt to help flavour the bread and improve the gluten structure. He then leaves it to rise at 20-22ºC until it's doubled in size, which is roughly 1-2 hours. He does stress that the dough doubling in size is the key point here so don't take it out too soon. Once the dough has been knocked-back he then leaves the bread to prove in a loaf tin wrapped in a bag, for about an hour, until the dough is at least doubled in size and springs back quickly if prodded lightly. 
+
+Finally, he slashes the top of the dough, dusts lightly with flour and bakes in the oven with a roasting tray filled with boiling water, to create a steamy atmosphere that will help give a crisp, light crust and slight sheen. 
 
 ###
 
