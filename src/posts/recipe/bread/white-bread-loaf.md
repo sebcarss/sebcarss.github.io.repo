@@ -46,6 +46,30 @@ Other Notes:
 
 - What effect does the oil have on the stickiness of the loaf to the tin compared to butter? 
 
+## Delia Smith's Easy White Loaf
+
+Next up is the much loved Delia Smith, and her [Easy White Loaf](https://www.deliaonline.com/recipes/type-of-dish/bread-recipes/easy-white-loaf). For Delia's bread she doesn't use any fat - no butter and no oil, but instead uses hand-hot water with her yeast, something Paul doesn't agree with. She also mixes the yeast, salt and flour together before adding the water, which goes against Paul again, who separates his salt and yeast as the salt can stop the yeast from doing its job. Another difference, although how much difference this makes to the end result is still to be determined, is Delia has chosen butter as her grease for the tin instead of oil. 
+
+However, the major difference I note with this recipe is the measurements Delia uses in comparison to Paul. She opts for more than 125% of flour in comparison to Paul's bread, but uses less than half the amount of yeast and almost triple the amount of salt! This seems to be at odds with the technical points that Paul has raised so it will be interesting to see the end result. As this is a larger loaf she cooks it for longer but interestingly starts her temperature higher and then brings it down for the final cooking stage. 
+
+### Verdict
+
+Things to review: 
+
+- Taste
+- Texture of inner bread (short or long gluten; soft or dry)
+- Texture of crust (light, crunchy, hard)
+- How long it remains soft
+- Time taken to rise
+- Time taken to prove
+
+Other Notes: 
+
+- What effect does the butter have on the stickiness of the loaf to the tin compared to oil? 
+
+---
+__Everything below this needs reviewing__
+
 - 400g Tesco strong white flour
 - 8g table salt
 - 7g Allison's Easy-Bake yeast
