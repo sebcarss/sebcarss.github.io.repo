@@ -33,14 +33,22 @@ Finally, he slashes the top of the dough, dusts lightly with flour and bakes in 
 
 ### Verdict
 
+![Paul Hollywood's Basic White Tin Bread](./paul-hollywood-basic-white-tin-bread.jpg)
+
 Things to review: 
 
 - Taste
+  - fresh 
 - Texture of inner bread (short or long gluten; soft or dry)
+  - Incredibly soft and light
+  - short gluten
 - Texture of crust (light, crunchy, hard)
+  - Very light, thin and crispy
 - How long it remains soft
 - Time taken to rise
+  - 1h50min
 - Time taken to prove
+  - 1h
 
 Other Notes: 
 
