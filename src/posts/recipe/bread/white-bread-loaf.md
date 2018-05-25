@@ -67,6 +67,29 @@ Other Notes:
 
 - What effect does the butter have on the stickiness of the loaf to the tin compared to oil? 
 
+## Dominic Chapman's White Bread
+
+And now we have Dominic Chapman's [White Bread](https://www.greatbritishchefs.com/recipes/white-bread-recipe). Dominic uses a similar recipe to Delia but with half the salt, which should mean the yeast works better but the end result may not taste as good. He also splits the dough into two tins and cooks for a lot less time but at 250ºC, which is less faffy than Delia's. Finally, he brushes the dough with water before baking baking, which I'm sure will have some sort of effect on the crust, as he doesn't put steam into the oven.
+
+Things to review: 
+
+- Taste
+- Texture of inner bread (short or long gluten; soft or dry)
+- Texture of crust (light, crunchy, hard)
+- How long it remains soft
+- Time taken to rise
+- Time taken to prove
+
+Other Notes: 
+
+- Could having two loafs mean the second loaf lasts longer because it hasn't been cut until the first loaf is gone? 
+
+## Jamie Oliver's Basic Bread Recipe
+
+Finally, no post would be complete without a recipe from Mr Jamie Oliver, so here is his [Basic Bread Recipe](https://www.jamieoliver.com/recipes/bread-recipes/basic-bread-recipe/). 
+
+Write up that Jamie uses sugar in his - isn't he supposed to be on a sugar tax mission now?
+
 ---
 __Everything below this needs reviewing__
 
