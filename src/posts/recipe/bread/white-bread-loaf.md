@@ -11,7 +11,9 @@ tags: [
     ]
 ---
 
-To me, white bread conjures up two specific treats: one is a deliciously soft bacon butty, with thick smoked back bacon and tomato ketchup; the other is a single slice, smeared with a thick layer of salted butter and a row of chip shop chips drenched in salt and vinegar. White bread is a treat and such a wonderfully moreish treat it is. Buying white bread works well as it is easy but there is nothing better than freshly baked bread so for this post I will be reviewing recipes from famous chefs, experimenting with ingredients to see the effects it has on the end result and defining my perfect white loaf based on my findings. So if you love white bread and want a recipe that explains why it is best rather than just giving you the recipe, this is the place to come to. 
+To me, white bread conjures up two specific treats: one is a deliciously soft bacon butty, with thick smoked back bacon and tomato ketchup; the other is a single slice, smeared with a thick layer of salted butter and a row of chip shop chips drenched in salt and vinegar. White bread is a treat and such a wonderfully moreish treat it is. Of course, you can buy perfectly good white bread from the supermarket but there is nothing better than freshly baked bread. So, for this post I will be reviewing recipes from four famous chefs: Paul Hollywood, Delia Smith, Dominic Chapman and Jamie Oliver; experimenting with ingredients to see the effects it has on the end result and defining my perfect white loaf based on my findings. So if you love white bread and want a recipe that explains why it is best rather than just giving you the recipe, this is the place to come to. 
+
+# Celebrity Bread Recipes
 
 ## Paul Hollywood's Basic White Tin Bread
 
@@ -25,7 +27,7 @@ In this, Paul suggests using instant yeast as he believes there is little differ
 >
 > When adding water to yeast, colder water will produce slow-rising doughs, which have more flavour because as yeast feeds on flour it releases alcohol and this flavours the bread. Using warm water to activate the yeast will cause the bread to rise rapidly and have less flavour.
 
-He also recommends using some unsalted butter to help the bread stay soft for longer, which may be important if you are making the bread for the week; and table salt to help flavour the bread and improve the gluten structure. The last ingredient he uses is olive oil for helping with kneading, which is not an issue for people with a stand mixer, and for greasing the loaf tin. 
+He also recommends using some unsalted butter to help the bread stay soft for longer, which may be important if you are making the bread for the week; and table salt to help flavour the bread and improve the gluten structure. The last ingredient he uses is olive oil for helping with kneading (which is not an issue for people with a stand mixer) and for greasing the loaf tin. 
 
 He then leaves it to rise at 20-22ºC until it's doubled in size, which is roughly 1-2 hours. He does stress that the dough doubling in size is the key point here so don't take it out too soon. Once the dough has been knocked-back he then leaves the bread to prove in a loaf tin wrapped in a bag, for about an hour, until the dough is at least doubled in size and springs back quickly if prodded lightly. 
 
@@ -34,6 +36,8 @@ Finally, he slashes the top of the dough, dusts lightly with flour and bakes in 
 ### Verdict
 
 ![Paul Hollywood's Basic White Tin Bread](./paul-hollywood-basic-white-tin-bread.jpg)
+
+This loaf has definitely set the bar high for the other challengers  
 
 Things to review: 
 
@@ -97,6 +101,35 @@ Other Notes:
 Finally, no post would be complete without a recipe from Mr Jamie Oliver, so here is his [Basic Bread Recipe](https://www.jamieoliver.com/recipes/bread-recipes/basic-bread-recipe/). 
 
 Write up that Jamie uses sugar in his - isn't he supposed to be on a sugar tax mission now?
+
+---
+__This next section is for the experimentation still to be done__
+
+# Experimentation
+
+## Proving Time
+
+Create a bread that is proved for 1 hour and compare it to a bread that is proved for 4 hours. Keep the temperature consistent.
+
+## Proving Temperature
+
+Create a bread that is proved at 27ºC (the supposed optimum temperature) until it is doubled in size and compare it to a bread that is proved at 5ºC in a fridge until it is doubled in size.
+
+## Amount of Times the Dough is Proved
+
+Create a bread that is proved just once, one that is proved twice and another that is proved 3 times. 
+
+## Using Different Fats
+
+Create a bread using olive oil, a bread using unsalted butter and a bread using duck fat.
+
+## Using Water at Different Temperatures
+
+This has already been done with Delia's recipe compared to Paul's so just write up the results. 
+
+## Salt or No Salt?
+
+Create a bread using salt and compare to one without salt.
 
 ---
 __Everything below this needs reviewing__
