@@ -37,7 +37,7 @@ Finally, he slashes the top of the dough, dusts lightly with flour and bakes in 
 
 ![Paul Hollywood's Basic White Tin Bread](./paul-hollywood-basic-white-tin-bread.jpg)
 
-This loaf has definitely set the bar high for the other challengers  
+The first thing to note about this bread was the look, it was relatively uniform which means the pockets of air have all risen equally, which makes a good loaf for making sandwiches from, and when cutting into the bread the centre proved that point with small air pockets. This was due to the short gluten that had formed most likely due to the butter in the dough. This also made the bread incredibly soft, which made it perfect for a fresh sandwich but not a packed lunch, I added tomatoes to my sandwich and even within the 10 minutes it took me to eat the sandwich, the tomato juice had already started to seep into the bread and make it slightly soggy, something that would not be appealing for a work lunch but is incredible freshly made. This bread is also easier to eat than Delia's bread as there is less elasticity and therefore less chew, this will be down to the shortening process of the butter. This loaf has definitely set the bar high for the other challengers in this post.
 
 Things to review: 
 
