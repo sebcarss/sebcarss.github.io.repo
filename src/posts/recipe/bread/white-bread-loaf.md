@@ -37,26 +37,7 @@ Finally, he slashes the top of the dough, dusts lightly with flour and bakes in 
 
 ![Paul Hollywood's Basic White Tin Bread](./paul-hollywood-basic-white-tin-bread.jpg)
 
-The first thing to note about this bread was the look, it was relatively uniform which means the pockets of air have all risen equally, which makes a good loaf for making sandwiches from, and when cutting into the bread the centre proved that point with small air pockets. This was due to the short gluten that had formed most likely due to the butter in the dough. This also made the bread incredibly soft, which made it perfect for a fresh sandwich but not a packed lunch, I added tomatoes to my sandwich and even within the 10 minutes it took me to eat the sandwich, the tomato juice had already started to seep into the bread and make it slightly soggy, something that would not be appealing for a work lunch but is incredible freshly made. This bread is also easier to eat than Delia's bread as there is less elasticity and therefore less chew, this will be down to the shortening process of the butter. This loaf has definitely set the bar high for the other challengers in this post.
-
-Things to review: 
-
-- Taste
-  - fresh 
-- Texture of inner bread (short or long gluten; soft or dry)
-  - Incredibly soft and light
-  - short gluten
-- Texture of crust (light, crunchy, hard)
-  - Very light, thin and crispy
-- How long it remains soft
-- Time taken to rise
-  - 1h50min
-- Time taken to prove
-  - 1h
-
-Other Notes: 
-
-- What effect does the oil have on the stickiness of the loaf to the tin compared to butter? 
+The first thing to note about this bread was the look, it was relatively uniform which means the pockets of air have all risen equally, which makes a good loaf for making sandwiches from. When cutting into the bread the centre proved that point with small air pockets, this was due to the short gluten that had formed, most likely due to the butter in the dough. This also made the bread incredibly soft, which made it perfect for a fresh sandwich but interestingly not a packed lunch - I added tomatoes to my sandwich and even within the 10 minutes it took me to eat the sandwich, the tomato juice had already started to seep into the bread and make it slightly soggy, something that would not be appealing left in the fridge for lunch at work but freshly made is incredible. The last thing to say about this bread is how light and crispy the texture of the crust was, there was beautiful crunch without any toughness. Unfortunately, the bread was not entirely simple to get out of the loaf tin when cooked, luckily I had a silicon mat on the base so I could pry away the sides with a knife, but it wasn't as easy as I was hoping for. All in all, this loaf has definitely set the bar high for the other challengers in this post.
 
 ## Delia Smith's Easy White Loaf
 
@@ -66,18 +47,11 @@ However, the major difference I note with this recipe is the measurements Delia 
 
 ### Verdict
 
-Things to review: 
+![Delia Smith's Easy White Loaf](./delia-smith-easy-white-loaf.jpg)
 
-- Taste
-- Texture of inner bread (short or long gluten; soft or dry)
-- Texture of crust (light, crunchy, hard)
-- How long it remains soft
-- Time taken to rise
-- Time taken to prove
+The taste of this bread was definitely more pronounced than with Paul's, which I attribute to the rather large amount of salt that Delia uses. It is also harder on the jaw than Paul's bread as there is more elasticity and therefore more chew, which will be down to not having any fat in the dough and therefore the gluten can stretch, a charactaristic of French bread (which I believe also doesn't have fat in). This in itself is not a criticism though as it makes for wonderfully delicious bread and butter when fresh and for very crisp toast when a day old. This bread works really well when toasted and then spread with butter and apricot jam, not sure why apricot, but it works better than all other jams! The crust was harder, which makes sense as there was no steam in the oven to soften it, and maybe also because of the longer gluten (but I'll have to test this theory), it was still good but not as good as Paul's, which was very light indeed. Finally, the loaf came out of the tin very easily, surprisingly easily compared to Paul's, it basically fell out! The difference between the two is the grease used to line the tin, in Paul's olive oil was used, but in Delia's unsalted butter was used. 
 
-Other Notes: 
-
-- What effect does the butter have on the stickiness of the loaf to the tin compared to oil? 
+Out of the two so far, it is difficult to choose a clear winner as they both have such specific purposes. Paul's is the winner when it comes to making sandwiches and as it's softer, a favourite with my children, but Delia's is more like the wonderful French bread that I love so much, with more flavour and character, but doesn't last as long. Either way, I believe there is room for improvement and the one thing I can say for certain... use unsalted butter to grease your tin. 
 
 ## Dominic Chapman's White Bread
 
