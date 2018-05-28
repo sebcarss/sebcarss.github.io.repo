@@ -61,7 +61,9 @@ And now we have Dominic Chapman's [White Bread](https://www.greatbritishchefs.co
 
 ![Dominic Chapman's White Bread](./dominic-chapman-white-bread.jpg)
 
+As you can see this bread leaves much to be desired, which is such a shame as I had such high hopes for it due to it having less salt than Delia's and no butter. Firstly, from a health point-of-view this would be much better for you; but secondly, I was expecting a lovely crisp French-style loaf with long stretched gluten, due to the lack of butter and also the limited salt content (which has a retarding effect on the activity of the yeast), and instead I was left with a lump of bread that looked more like a meatloaf than a bread loaf! What I found most interesting about this bread is the formation of the air pockets in the loaf, if you compare them with the images from Paul and Delia's bread you will notice they are much larger, even though the bread hasn't risen as much. This definitely made a difference to the overall taste and texture of the bread, with the taste being the best out of the three breads so far and the texture being more like Delia's  but without the jaw-taxing elasticity. I would say this is the perfect bread for toasting and is the most similar to the traditional French baguette that I have made so far as it was incredibly crisp and light to eat, but it was not ideal for sandwiches. I'm now beginning to think there isn't a one-size-fits-all when it comes to bread. 
 
+Another thing to note about this bread compared to the others is Dominic did not slash the top of his bread and the bread did not rise very well. It make sense to me that if you cut into the stretched gluten just before popping in the oven, the air pockets underneath have more room to push up and therefore there is more scope for rising and, chiefly, stretching of the gluten whilst baking, which should lead to a lighter, crisper, more French-like loaf. However, this will need testing later.  
 
 ## Jamie Oliver's Basic Bread Recipe
 
@@ -97,6 +99,12 @@ This has already been done with Delia's recipe compared to Paul's so just write 
 ## Salt or No Salt?
 
 Create a bread using salt and compare to one without salt.
+
+## Different flours
+
+Supposedly the flavour of the bread comes from the flour with the salt enhancing it. So try a different flour to Tesco, e.g. Hovis, Allison's, and some organic flour.
+
+## Slashing the top of the bread compared to not slashing the top of bread
 
 ---
 __Everything below this needs reviewing__
