@@ -11,9 +11,7 @@ tags: [
     ]
 ---
 
-To me, white bread conjures up two specific treats: one is a deliciously soft bacon butty, with thick smoked back bacon and tomato ketchup; the other is a single slice, smeared with a thick layer of salted butter and a row of chip shop chips drenched in salt and vinegar. White bread is a treat and such a wonderfully moreish treat it is. Of course, you can buy perfectly good white bread from the supermarket but there is nothing better than freshly baked bread. So, for this post I will be reviewing recipes from four famous chefs: Paul Hollywood, Delia Smith, Dominic Chapman and Jamie Oliver; experimenting with ingredients to see the effects it has on the end result and defining my perfect white loaf based on my findings. So if you love white bread and want a recipe that explains why it is best rather than just giving you the recipe, this is the place to come to. 
-
-# Celebrity Bread Recipes
+To me, white bread conjures up two specific treats: one is a deliciously soft bacon butty, with thick smoked back bacon and tomato ketchup; the other is a single slice, smeared with a thick layer of salted butter and a row of chip shop chips drenched in salt and vinegar. White bread is a treat and such a wonderfully moreish treat it is. Of course, you can buy perfectly good white bread from the supermarket but there is nothing better than freshly baked bread. So, for this post I will be reviewing recipes from four famous chefs: Paul Hollywood, Delia Smith, Dominic Chapman and Jamie Oliver; experimenting with ingredients to see the effects it has on the end result and defining my perfect white loaf based on my findings. So if you love white bread and want a recipe that explains what it is that makes it the best recipe, rather than just giving you a recipe then this is the place to come to. 
 
 ## Paul Hollywood's Basic White Tin Bread
 
@@ -21,7 +19,7 @@ First up is the dreamy-eyed Paul Hollywood and his basic white tin bread, which 
 
 __NOTE:// Replace with the affiliate link here for Amazon__
 
-In this, Paul suggests using instant yeast as he believes there is little difference made to the quality of the bread when compared to using fresh yeast. However, he does stress that it is pivitol that you get the temperature of the water right for making your dough, which he suggests is 15ºC, which is fairly cool to the touch. 
+In this book, Paul suggests using instant yeast as he believes there is little difference made to the quality of the bread when compared to using fresh yeast. However, he does stress that it is pivitol that you get the temperature of the water right for making your dough, which he suggests is 15ºC, which is fairly cool to the touch. 
 
 > __Top Tip From Paul Hollywood__
 >
@@ -55,7 +53,7 @@ Out of the two so far, it is difficult to choose a clear winner as they both hav
 
 ## Dominic Chapman's White Bread
 
-And now we have Dominic Chapman's [White Bread](https://www.greatbritishchefs.com/recipes/white-bread-recipe). Dominic uses a similar recipe to Delia but with half the salt, which should mean the yeast works better but the end result may not taste as good. He also splits the dough into two tins and cooks for a lot less time but at 250ºC, which is less faffy than Delia's. Finally, he brushes the dough with water before baking baking, which I'm sure will have some sort of effect on the crust, as he doesn't put steam into the oven.
+And now we have Dominic Chapman's [White Bread](https://www.greatbritishchefs.com/recipes/white-bread-recipe). Dominic uses a similar recipe to Delia but with half the salt, which should mean the yeast works better but the end result may not taste as good. He also splits the dough into two tins and cooks for a lot less time but at 250ºC, which is less faffy than Delia's. Finally, he brushes the dough with water before baking, which I'm sure will have some sort of effect on the crust, as he doesn't put steam into the oven.
 
 ### Verdict
 
@@ -63,7 +61,7 @@ And now we have Dominic Chapman's [White Bread](https://www.greatbritishchefs.co
 
 As you can see this bread leaves much to be desired, which is such a shame as I had such high hopes for it due to it having less salt than Delia's and no butter. Firstly, from a health point-of-view this would be much better for you; but secondly, I was expecting a lovely crisp French-style loaf with long stretched gluten, due to the lack of butter and also the limited salt content (which has a retarding effect on the activity of the yeast), and instead I was left with a lump of bread that looked more like a meatloaf than a bread loaf! What I found most interesting about this bread is the formation of the air pockets in the loaf, if you compare them with the images from Paul and Delia's bread you will notice they are much larger, even though the bread hasn't risen as much. This definitely made a difference to the overall taste and texture of the bread, with the taste being the best out of the three breads so far and the texture being more like Delia's  but without the jaw-taxing elasticity. I would say this is the perfect bread for toasting and is the most similar to the traditional French baguette that I have made so far as it was incredibly crisp and light to eat, but it was not ideal for sandwiches. I'm now beginning to think there isn't a one-size-fits-all when it comes to bread. 
 
-Another thing to note about this bread compared to the others is Dominic did not slash the top of his bread and the bread did not rise very well. It make sense to me that if you cut into the stretched gluten just before popping in the oven, the air pockets underneath have more room to push up and therefore there is more scope for rising and, chiefly, stretching of the gluten whilst baking, which should lead to a lighter, crisper, more French-like loaf. However, this will need testing later.  
+Another thing to note about this bread compared to the others is Dominic did not slash the top of his bread and the bread did not rise very well. It makes sense to me that if you cut into the stretched gluten just before popping in the oven, the air pockets underneath have more room to push up and therefore there is more scope for rising and, chiefly, stretching of the gluten whilst baking, which should lead to a lighter, crisper, more French-like loaf. However, this will need testing later. For now I'm happy to say if I can solve the issue with rising, then this would be my favoured bread for toasting so far, with Paul's being my favourite for sandwiches. 
 
 ## Jamie Oliver's Basic Bread Recipe
 
@@ -73,8 +71,6 @@ Write up that Jamie uses sugar in his - isn't he supposed to be on a sugar tax m
 
 ---
 __This next section is for the experimentation still to be done__
-
-# Experimentation
 
 ## Proving Time
 
