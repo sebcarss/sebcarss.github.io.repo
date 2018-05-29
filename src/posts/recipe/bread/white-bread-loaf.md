@@ -100,6 +100,17 @@ Create a bread using salt and compare to one without salt.
 
 Supposedly the flavour of the bread comes from the flour with the salt enhancing it. So try a different flour to Tesco, e.g. Hovis, Allison's, and some organic flour.
 
+## Specialist ingredents
+
+Use some of the E numbers and preservatives found in supermarket bread, e.g. 
+
+- E481  : Sodium Stearoyl Lactate
+- E472e : Diacetyltartaric acid esters of mono- and diglycerides (DATEM)
+- E282  : Calcium Propionate
+- Ascorbic Acid
+
+Good website to find out about E numbers http://www.food-info.net/uk/e/e282.htm
+
 ## Slashing the top of the bread compared to not slashing the top of bread
 
 ---
