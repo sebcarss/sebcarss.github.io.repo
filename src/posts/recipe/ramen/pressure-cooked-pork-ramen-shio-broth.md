@@ -1,7 +1,9 @@
 ---
+category: "cooking"
 series: "Year of Ramen"
 title: "#03: Pressure-Cooked Pork Ramen with a Shio Broth"
 date: "2016-02-20"
+published: "true"
 ---
 
 

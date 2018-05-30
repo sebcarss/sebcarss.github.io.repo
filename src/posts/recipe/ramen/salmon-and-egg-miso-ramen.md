@@ -1,7 +1,9 @@
 ---
+category: "cooking"
 series: "Year of Ramen"
 title: "#02: Evalyn's 2nd Birthday Salmon and Egg Miso Ramen"
 date: "2016-02-13"
+published: "true"
 ---
 
 My daughter, Evalyn, turned 2 this week so I thought it only right to create her a ramen dish with some of her favourite ingredients... but don't worry, I'm not going to create some sort of crazy chocolate and milk flavoured ramen!  Saying that, maybe chocolate ramen should be my recipe for next week considering it's Valentine's Day. Is a chocolate noodle an aphrodisiac? I guess this post sums it up (http://www.eater.com/2016/1/29/10871876/chocolate-ramen-japan) but feel free to add your views in the comments. Anyway, I digress, back to my daughter's favourite (savoury) foods and the main ingredients for this ramen: salmon and egg.
