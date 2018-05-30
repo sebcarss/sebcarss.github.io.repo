@@ -104,7 +104,7 @@ Create a bread using salt and compare to one without salt.
 
 Supposedly the flavour of the bread comes from the flour with the salt enhancing it. So try a different flour to Tesco, e.g. Hovis, Allison's, and some organic flour.
 
-## Specialist ingredents
+## Specialist ingredients
 
 Use some of the E numbers and preservatives found in supermarket bread, e.g. 
 
@@ -116,6 +116,8 @@ Use some of the E numbers and preservatives found in supermarket bread, e.g.
 Good website to find out about E numbers http://www.food-info.net/uk/e/e282.htm
 
 ## Slashing the top of the bread compared to not slashing the top of bread
+
+Does this make a difference to the size of the air pockets during baking? I'm expecting that the by slashing the dough the loaf can rise more easily and the air pockets will be larger. 
 
 ---
 __Everything below this needs reviewing__
