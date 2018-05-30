@@ -72,6 +72,10 @@ Write up that Jamie uses sugar in his - isn't he supposed to be on a sugar tax m
 ---
 __This next section is for the experimentation still to be done__
 
+## Different Wet Ingredients
+
+Compare the use of water, milk and yoghurt in bread.
+
 ## Proving Time
 
 Create a bread that is proved for 1 hour and compare it to a bread that is proved for 4 hours. Keep the temperature consistent.
