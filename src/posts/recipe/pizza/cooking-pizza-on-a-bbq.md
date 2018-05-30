@@ -1,4 +1,5 @@
 ---
+category: "cooking"
 series: "Pizza Diaries"
 title: "Cooking Pizza on a BBQ"
 date: "2018-05-08"
@@ -24,6 +25,8 @@ So a few years back my in-laws had a place in Ostuni, Italy, which just so happe
 And this is where the story begins...
 
 ## Finding a replacement forno
+
+![Pizza](../../../images/pizza-diaries/bbq-pizza/bbq-pizza-thumbnail-400w.jpg)
 
 https://www.aldi.co.uk/gardenline-bbq-pizza-oven/p/083072199802200
 
