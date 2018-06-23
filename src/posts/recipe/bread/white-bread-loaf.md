@@ -70,21 +70,15 @@ The interesting thing about Jamie's bread is he uses what I think is quite a lar
 
 The first thing to note about this bread was the softness of the crust to the touch compared with the other breads, it felt like a perfect bouncy castle for a borrower, but that only meant that it was chewy to eat, which wasn't ideal. The bread was able to rise well within only 30 mins (each prove), which meant it was the quickest bread to make and therefore if you are short on time you may want to add some sugar to the dough to expedite the process. All in all this bread took about 1 hour and 40 minutes to make compared to at least 2 hours and 40 minutes for the other breads. The flavour of this bread was pretty spectacular, which I was slightly surprised by. I presumed that that bread would taste too sweet but actually the balance is lovely and works really well as bread or toast and butter, it works even better as toast with a poached egg on it so I can only presume that it would be the ideal bread for a bacon sandwich. Surprisingly it didn't work that well as toast with jam on it, maybe this was because it was already sweet, which works with the savouriness of eggs and bacon, but not with the additional sweetness of the jam. Finally, the texture of the bread was similar to bread that may be found at a supermarket by one of the big brands, which I assume was down to the sugar. 
 
-# Findings
+# The Winning White Loaf Recipe
 
-To make a white loaf you need at the minimum four ingredients: flour, water, yeast and salt. However, additional ingredients such as butter and sugar also have an effect on the final bread as well as the technique used to bake the bread, such as with or without steam, or slashing the dough before baking. Each of the breads that I tried for this post had something slightly different about it that I wanted to try out, to get a real flavour for what they would do to the end result, and here are my findings. 
+So it turns out that when it comes to making a white loaf there are many variations based on just a few simple ingredients, e.g. adding butter to the dough will give a softer loaf that is good for sandwiches; adding sugar will make the 'crumb' more cake-like and will also make the crust much softer, which again is good for sandwiches; and having no sugar or butter will result in a loaf that has an open 'crumb' and this produces a very crunchy piece of toast. 
 
-## Salt
+But which celebrity bread came closets to the perfect loaf for me? 
 
-## Butter
+This was a difficult choice as they were all very good (except for Dominic's rising issues), so in the end this came down to versatility. For me, I want a white loaf that can be used to make great toast but can also be used for sandwich making, and this meant that I was leaning more towards Paul's or Jamie's, and although Jamie's made for a sublime egg on toast, Paul's is the one that I would gravitate towards because firstly, it is healthier as it doesn't contain sugar, and secondly, it makes better toast than Jamie's. In fact, if there were a scale representing bread good for toasting against bread good for sandches, Paul's would be bang in the middle, with Dominic and Delia's breads on the 'toast' side, and Jamie's on the 'sandwich' side. 
 
-## Sugar
 
-## Steam
-
-## Slashing The Dough
-
-# The Ultimate White Loaf
 
 ---
 __This next section is for the experimentation still to be done__
