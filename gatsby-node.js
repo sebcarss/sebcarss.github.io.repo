@@ -28,8 +28,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
             }
           }
         }
-      `
-        ).then(result => {
+      `).then(result => {
             console.log(`\n`)
             console.log(`######################`)
             console.log(`### CREATING PAGES ###`)
