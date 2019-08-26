@@ -3,19 +3,15 @@ import Link from "gatsby-link";
 
 export default (props) => {
 
-    // TODO: Fix the header loading after the body
-
     return (
         <div>
             <header style={{ marginBottom: `-1rem`, paddingLeft: `10px`, backgroundColor: `#008080`, textAlign: props.textAlign }}>
-                <p>
-                    <Link to="/" style={{ textShadow: `none`, backgroundImage: `none`, textDecoration: `none`, color: `white` }}>
-                        <h3 style={{ display: `inline`, fontFamily: `Courier New` }}>sebcarss.com</h3>
-                    </Link>
-                </p>
+                <Link to="/" style={{ textShadow: `none`, backgroundImage: `none`, textDecoration: `none`, color: `white` }}>
+                    <h3 style={{ display: `inline`, fontFamily: `Courier New` }}>sebcarss.com</h3>
+                </Link>
             </header>
-            <nav style={{ textAlign: `center` }}>
-                <p>
+            <nav style={{ marginTop: `1em`, textAlign: `center` }}>
+                <div>
                     <Link to="/cooking" style={{ textShadow: `none`, backgroundImage: `none`, textDecoration: `none`, color: `teal` }}>
                         <h4 style={{ display: `inline` }}>Cooking</h4>
                     </Link>
@@ -23,7 +19,7 @@ export default (props) => {
                     <Link to="/coding" style={{ textShadow: `none`, backgroundImage: `none`, textDecoration: `none`, color: `teal` }}>
                         <h4 style={{ display: `inline` }}>Coding</h4>
                     </Link> */}
-                </p>
+                </div>
             </nav>
         </div>
     );
