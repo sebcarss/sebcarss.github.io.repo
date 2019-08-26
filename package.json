@@ -8,7 +8,7 @@
     "serve": "gatsby serve",
     "deploy:github": "rm -rf ./public/ && gatsby build && ./deployToGithub.sh",
     "deploy:surge": "gatsby build && surge public/",
-    "deploy": "npm deploy:surge"
+    "deploy": "npm run deploy:surge"
   },
   "dependencies": {
     "gatsby": "^1.9.262",

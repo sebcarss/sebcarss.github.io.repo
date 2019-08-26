@@ -9,11 +9,10 @@ export default ({ data }) => {
                 <div key={node.id} style={{ borderBottom: `solid 1px teal` }}>
                     <Link
                         to={node.fields.slug}
-                        style={{ textDecoration: `none`, color: `inherit` }}
-                    >
-                        <h3 style={{ marginBottom: `-0.25em`, color: `#585858` }}>{node.frontmatter.title}</h3>
-                        <div style={{ color: `teal` }}>{node.frontmatter.series}</div>
-                        <div style={{ color: `#BBB` }}>{node.frontmatter.date}</div>
+                        style={{ textDecoration: `none`, color: `inherit` }}>
+                            <h3 style={{ marginBottom: `-0.25em`, color: `#585858` }}>{node.frontmatter.title}</h3>
+                            <div style={{ color: `teal` }}>{node.frontmatter.series}</div>
+                            <div style={{ color: `#BBB` }}>{node.frontmatter.date}</div>
                     </Link>
                 </div>
             ))}
