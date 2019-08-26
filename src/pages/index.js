@@ -1,5 +1,4 @@
 import React from "react";
-import PostArticle from "../components/post-article";
 import Link from "gatsby-link";
 
 export default ({ data }) => {

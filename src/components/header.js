@@ -14,12 +14,12 @@ export default (props) => {
             </header>
             <nav style={{ textAlign: `center` }}>
                 <p>
-                    <Link to="/cooking" style={{ textShadow: `none`, backgroundImage: `none`, textDecoration: `none`, color: `teal` }}>
+                    {/* <Link to="/cooking" style={{ textShadow: `none`, backgroundImage: `none`, textDecoration: `none`, color: `teal` }}>
                         <h4 style={{ display: `inline` }}>Cooking</h4>
                     </Link>&nbsp; | &nbsp;
                     <Link to="/coding" style={{ textShadow: `none`, backgroundImage: `none`, textDecoration: `none`, color: `teal` }}>
                         <h4 style={{ display: `inline` }}>Coding</h4>
-                    </Link>
+                    </Link> */}
                 </p>
             </nav>
         </div>
