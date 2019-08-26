@@ -11,7 +11,7 @@ export default ({ children }) => {
     return (
         <div className={styles.global}>
             {/* Header component spans the full width */}
-            <Desktop>
+            {/* <Desktop>
                 <Header textAlign="left" />
             </Desktop>
             <Tablet>
@@ -19,7 +19,9 @@ export default ({ children }) => {
             </Tablet>
             <Mobile>
                 <Header textAlign="center" />
-            </Mobile>
+            </Mobile> */}
+
+            <Header textAlign="center" />
 
             {/* Body component spans 650w */}
             <div style={{ margin: `0 auto`, maxWidth: 650, padding: `1.25rem 1rem` }}>

@@ -3,6 +3,8 @@ import Link from "gatsby-link";
 
 export default (props) => {
 
+    // TODO: Fix the header loading after the body
+
     return (
         <div>
             <header style={{ marginBottom: `-1rem`, paddingLeft: `10px`, backgroundColor: `#008080`, textAlign: props.textAlign }}>
