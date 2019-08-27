@@ -1,21 +1,29 @@
 import React from "react";
-import Link from "gatsby-link";
+import { graphql, Link } from 'gatsby';
+import Layout from "../components/layout";
 
 export default ({ data }) => {
     return (
-        <div>
-            {data.allMarkdownRemark.edges.map(({ node }) => (
-                <div key={node.id} style={{ borderBottom: `solid 1px teal` }}>
-                    <Link
-                        to={node.fields.slug}
-                        style={{ textDecoration: `none`, color: `inherit` }}>
-                            <h3 style={{ marginBottom: `-0.25em`, color: `#585858` }}>{node.frontmatter.title}</h3>
-                            <div style={{ color: `teal` }}>{node.frontmatter.series}</div>
-                            <div style={{ color: `#BBB` }}>{node.frontmatter.date}</div>
-                    </Link>
+        <Layout>
+            <div>
+                <div>
+                    Hey, my name is Seb and I am loving living life!
                 </div>
-            ))}
-        </div>
+                <div>
+                    {data.allMarkdownRemark.edges.map(({ node }) => (
+                        <div key={node.id} style={{ borderBottom: `solid 1px teal` }}>
+                            <Link
+                                to={node.fields.slug}
+                                style={{ textDecoration: `none`, color: `inherit` }}>
+                                    <h3 style={{ marginBottom: `-0.25em`, color: `#585858` }}>{node.frontmatter.title}</h3>
+                                    <div style={{ color: `teal` }}>{node.frontmatter.series}</div>
+                                    <div style={{ color: `#BBB` }}>{node.frontmatter.date}</div>
+                            </Link>
+                        </div>
+                    ))}
+                </div>
+            </div>
+        </Layout>
     );
 };
 

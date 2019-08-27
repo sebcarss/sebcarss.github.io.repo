@@ -1,4 +1,5 @@
 ---
+path: "/recipe/bread/white-bread-loaf"
 category: "cooking"
 series: "Bread Chronicles"
 title: "White Bread Loaf"

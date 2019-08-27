@@ -1,5 +1,5 @@
 import React from "react";
-import Header from "../components/header";
+import Header from "./header";
 
 export default ({ children }) => {
     return (
@@ -7,7 +7,7 @@ export default ({ children }) => {
             <Header textAlign="center" />
 
             <div style={{ margin: `0 auto`, maxWidth: 650, padding: `1.25rem 1rem` }}>
-                {children()}
+                {children}
             </div>
         </div>
     );
