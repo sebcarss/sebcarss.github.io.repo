@@ -8,7 +8,7 @@ export default ({ data }) => {
         <Layout>
             <div>
                 <div>
-                    Hey, my name is Seb and I am loving living life!
+                    Hey, my name is Seb, welcome to my blog.
                 </div>
                 <div style={{ marginTop: `1em`}}>
                     {data.allMarkdownRemark.edges.map(({ node }) => (
