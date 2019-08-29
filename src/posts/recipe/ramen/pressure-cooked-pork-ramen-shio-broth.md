@@ -4,6 +4,8 @@ series: "Year of Ramen"
 title: "#03: Pressure-Cooked Pork Ramen with a Shio Broth"
 date: "2016-02-20"
 published: "false"
+featuredImage: "./paul-hollywood-basic-white-tin-bread.jpg"
+thumbnailImage: "./paul-hollywood-basic-white-tin-bread.jpg"
 ---
 
 

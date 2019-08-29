@@ -6,6 +6,7 @@ title: "White Bread Loaf"
 date: "2018-05-09"
 published: "true"
 featuredImage: "./delia-smith-easy-white-loaf.jpg"
+thumbnailImage: "./paul-hollywood-basic-white-tin-bread.jpg"
 ---
 
 To me, white bread conjures up two specific treats: one is a deliciously soft bacon butty, with thick smoked back bacon and tomato ketchup; the other is a single slice, smeared with a thick layer of salted butter and a row of chip shop chips drenched in salt and vinegar. White bread is a treat and such a wonderfully moreish treat it is. Of course, you can buy perfectly good white bread from the supermarket but there is nothing better than freshly baked bread. So, for this post I will be reviewing recipes from four famous chefs: Paul Hollywood, Delia Smith, Dominic Chapman and Jamie Oliver; experimenting with ingredients to see the effects it has on the end result and defining my perfect white loaf based on my findings. So if you love white bread and want a recipe that explains what it is that makes it the best recipe, rather than just giving you a recipe then this is the place to come to. 
