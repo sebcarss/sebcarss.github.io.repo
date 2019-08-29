@@ -14,7 +14,7 @@ export default ({ data }) => {
                     {data.allMarkdownRemark.edges.map(({ node }) => (
                         <div key={node.id} style={{ clear: `left`, borderBottom: `solid 1px teal` }}>
                             <Link
-                                to={node.fields.slug}
+                                to={node.frontmatter.path}
                                 style={{ textDecoration: `none`, color: `inherit` }}>
                                     <div>
                                         <p style={{ float: `left`}}>
@@ -42,6 +42,7 @@ export const query = graphql`
                 node {
                     id
                     frontmatter {
+                        path
                         series
                         title
                         date(formatString: "DD MMMM YYYY")
@@ -55,9 +56,6 @@ export const query = graphql`
                     }
                     html
                     timeToRead
-                    fields {
-                        slug
-                    }
                 }
             }
         }

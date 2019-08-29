@@ -1,10 +1,10 @@
 ---
-path: "/recipe/bread/white-bread-loaf"
+path: "/white-bread-loaf"
 category: "cooking"
 series: "Bread Chronicles"
 title: "White Bread Loaf"
 date: "2018-05-09"
-published: "false"
+published: "true"
 featuredImage: "./delia-smith-easy-white-loaf.jpg"
 thumbnailImage: "./paul-hollywood-basic-white-tin-bread.jpg"
 ---
