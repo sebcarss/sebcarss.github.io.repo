@@ -1,9 +1,12 @@
 ---
+path: "/cooking-pizza-on-a-bbq"
 category: "cooking"
 series: "Pizza Diaries"
 title: "Cooking Pizza on a BBQ"
 date: "2018-05-08"
 published: "false"
+featuredImage: "./delia-smith-easy-white-loaf.jpg"
+thumbnailImage: "./delia-smith-easy-white-loaf.jpg"
 ---
 
 Welcome to the first installment of my Pizza Diaries!
@@ -12,7 +15,7 @@ Welcome to the first installment of my Pizza Diaries!
 
 Pizza mainly.
 
-But... this is a place for me to experiment with making my own pizza dough. A place where I can write down my thoughts on a specific recipe I have tried or created. But mostly a place where I can tweak the recipes with the ultimate goal of crafting the perfect pizza every time I make it. 
+But... this is a place for me to experiment with making my own pizza dough. A place where I can write down my thoughts on a specific recipe I have tried or creat`  ed. But mostly a place where I can tweak the recipes with the ultimate goal of crafting the perfect pizza every time I make it. 
 
 So, that means you can expect the posts to contain information on the recipes, tweaks, toppings, temperature, proofing, etc. - all the things that make pizza so good. Do I want my pizza dough and method of cooking to become a Hallmark of fine pizza crafting standards for future generations? Hell yes! Will it? Probably not, but I can dream, and if I can't reach those lofty heights, I will at least have eaten a lot of good (and bad) pizza on the way. And that is absolutely fine by me.
 
@@ -25,7 +28,5 @@ So a few years back my in-laws had a place in Ostuni, Italy, which just so happe
 And this is where the story begins...
 
 ## Finding a replacement forno
-
-![Pizza](../../../images/pizza-diaries/bbq-pizza/bbq-pizza-thumbnail-400w.jpg)
 
 https://www.aldi.co.uk/gardenline-bbq-pizza-oven/p/083072199802200
