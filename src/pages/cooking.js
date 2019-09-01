@@ -14,9 +14,9 @@ export default ({ data }) => {
                                 to={node.frontmatter.path}
                                 style={{ textDecoration: `none`, color: `inherit` }}>
                                     <div>
-                                        <p style={{ float: `left`}}>
+                                        <div style={{ float: `left`}}>
                                             <Img fixed={node.frontmatter.thumbnailImage.childImageSharp.fixed}/>
-                                        </p>
+                                        </div>
                                     </div>
                                     <div style={{ paddingLeft: `6em`}}>
                                         <h3 style={{ marginBottom: `-0.25em`, color: `#585858` }}>{node.frontmatter.title}</h3>
