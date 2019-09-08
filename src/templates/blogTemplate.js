@@ -12,11 +12,17 @@ export default function Template({
     
     return (
         <Layout>
-            <div>
-                <h1 style={{ color: `#585858`, marginBottom: `-0.10em` }}>{frontmatter.title}</h1>
-                <div style={{ color: `teal`, marginBottom: `1em`, borderBottom: `solid 1px #585858` }}>Part of the {frontmatter.series} series</div>
-                <Img fluid={featuredImgFluid} />
-                <div style={{ color: `#585858` }} dangerouslySetInnerHTML={{ __html: html }} />
+            <div>              
+              <h1 style={{ color: `#585858` }}>
+                {frontmatter.title}
+              </h1>  
+              <div style={{ color: `teal`, marginBottom: `1em` }}>
+                Part of the {frontmatter.series} series
+              </div>
+              <Img fluid={featuredImgFluid} />
+              <div 
+                style={{ color: `#585858`, marginTop: `2em` }} 
+                dangerouslySetInnerHTML={{ __html: html }} />
             </div>
         </Layout>
     );
