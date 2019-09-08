@@ -5,8 +5,8 @@ series: "Year of Ramen"
 title: "#01: Soy Chicken Ramen with 63ºC Egg"
 date: "2016-02-06"
 published: "true"
-featuredImage: "./soy-chicken-with-sous-vide-egg-ramen.jpeg"
-thumbnailImage: "./soy-chicken-with-sous-vide-egg-ramen.jpeg"
+featuredImage: "./soy-chicken-and-sous-vide-egg-ramen.jpg"
+thumbnailImage: "./soy-chicken-and-sous-vide-egg-ramen-thumbnail.jpg"
 ---
 
 I fell in love with instant ramen when I was a kid. It was one of the first things I learnt to cook on my own and managed to get me through some tight university days, when all I could afford to eat was noodles that cost 6p (because I'd spent all my money on alcohol!). I remember looking at the recipe on the back of the packet and making the decision to try cooking them differently because I didn't like how watery they were. This goes against what ramen is, but I didn't like the soup that came with instant ramen, I wanted the concentrated flavour on the noodles only. So I experimented until I found the perfect amount of water to add to the noodles, to allow the packet's seasoning to coat each noodle for maximum flavour (for those of you that are wondering it was 100ml of water, which really isn't a lot).
