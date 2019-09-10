@@ -12,12 +12,12 @@ export default function Template({
     
     return (
         <Layout>
-            <div>              
+            <div style={{ marginTop: `-1em`}}>              
               <h1 style={{ color: `#585858` }}>
                 {frontmatter.title}
               </h1>  
-              <div style={{ color: `teal`, marginBottom: `1em` }}>
-                Part of the {frontmatter.series} series
+              <div style={{ color: `teal`, marginBottom: `1em`, marginTop: `-1em` }}>
+                {frontmatter.series}
               </div>
               <Img fluid={featuredImgFluid} />
               <div 
