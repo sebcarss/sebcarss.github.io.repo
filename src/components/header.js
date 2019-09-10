@@ -12,8 +12,8 @@ export default (props) => {
             </header>
             <nav style={{ marginTop: `1em`, textAlign: `center` }}>
                 <div>
-                    <Link to="/cooking" style={{ textShadow: `none`, backgroundImage: `none`, textDecoration: `none`, color: `teal` }}>
-                        <h4 style={{ display: `inline` }}>On Cooking</h4>
+                    <Link to="/recipes" style={{ textShadow: `none`, backgroundImage: `none`, textDecoration: `none`, color: `teal` }}>
+                        <h4 style={{ display: `inline` }}>Recipes</h4>
                     </Link>
                     {/* &nbsp; | &nbsp;
                     <Link to="/coding" style={{ textShadow: `none`, backgroundImage: `none`, textDecoration: `none`, color: `teal` }}>

@@ -34,7 +34,12 @@ export default ({ data }) => {
 
 export const query = graphql`
     query CookingPostsQuery {
-        allMarkdownRemark(filter: {frontmatter: {published: {eq: "true"}, category: {eq: "cooking"}}}, sort: {fields: [frontmatter___date], order: DESC}) {
+        allMarkdownRemark(
+            filter: {
+                frontmatter: {
+                    published: {eq: "true"}, 
+                    tags: {in: "recipe"}}}, 
+            sort: {fields: [frontmatter___date], order: DESC}) {
             edges {
                 node {
                     id
