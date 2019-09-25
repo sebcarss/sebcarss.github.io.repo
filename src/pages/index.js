@@ -1,7 +1,7 @@
 import React from "react";
-import { graphql, Link } from 'gatsby';
+import { graphql } from 'gatsby';
 import Layout from "../components/layout";
-import Img from 'gatsby-image';
+import ArticleListing from "../components/article-listing"
 
 export default ({ data }) => {
     return (
@@ -10,20 +10,7 @@ export default ({ data }) => {
                 <div style={{ marginTop: `1em` }}>
                     {data.allMarkdownRemark.edges.map(({ node }) => (
                         <div key={node.id} style={{ clear: `left`, marginBottom: `1em`, borderBottom: `solid 1px teal` }}>
-                            <Link
-                                to={node.frontmatter.path}
-                                style={{ textDecoration: `none`, color: `inherit` }}>
-                                    <div>
-                                        <div style={{ float: `left`}}>
-                                            <Img fixed={node.frontmatter.thumbnailImage.childImageSharp.fixed}/>
-                                        </div>
-                                    </div>
-                                    <div style={{ paddingLeft: `6em`}}>
-                                        <h3 style={{ marginBottom: `-0.25em`, color: `#585858` }}>{node.frontmatter.title}</h3>
-                                        <div style={{ color: `teal` }}>{node.frontmatter.series}</div>
-                                        <div style={{ color: `#BBB`, marginBottom: `1em` }}>{node.frontmatter.date}</div>
-                                    </div>
-                            </Link>
+                            <ArticleListing data={node}></ArticleListing>
                         </div>
                     ))}
                 </div>
