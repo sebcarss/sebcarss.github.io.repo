@@ -23,11 +23,11 @@ After Japan I moved onto other cuisines such as Vietnamese and Thai and these da
 
 David owns a restaurant called Momofuku and after watching how excited _he_ was getting about ramen, my nostalgic love affair with the noodle was back! So, I've decided to set myself a challenge of cooking one ramen dish a week for a whole year, blogging the recipe and my experience and understanding as much as I can about the art of ramen. I hope you enjoy my posts and learn a bit more about this complex dish.
 
-# Soy Chicken Ramen with a 63ºC Sous-Vide Egg
+## Soy Chicken Ramen with a 63ºC Sous-Vide Egg
 
 ![Soy Chicken and Sous Vide Egg Ramen](./soy-chicken-and-sous-vide-egg-ramen.jpg)
 
-## Ingredients (serves 2)
+### Ingredients (serves 2)
 
 _The broth:_
 
@@ -51,7 +51,7 @@ _The noodles:_
 
 * 2 Medium egg noodle slabs
 
-## Method
+### Method
 
 1. Set the sous-vide to 63C, vac-seal the chicken and place in the water bath for 1 hour and 30 minutes.
 2. Gently place the eggs in the sous-vide after 45 minutes so they cook for the remaining 45 minutes.
@@ -62,5 +62,3 @@ _The noodles:_
 7. Serve with light soy sauce and nanami togarashi (Japanese 9-spice).
 
 This was my first ramen in a long time and it did not disappoint! I hope you are able to try it and get as much pleasure from it as I did. If you have any questions or comments then please leave them in the comments section and I'll get back to you. Oh, and don't worry if you don't have a sous-vide as the chicken will work just as well fried, grilled or poached and the eggs will be perfectly fine boiled.
-
-SC.

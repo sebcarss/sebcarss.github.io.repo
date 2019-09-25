@@ -1,5 +1,5 @@
 import React from "react";
-import Link from "gatsby-link";
+import { Link } from "gatsby";
 
 export default (props) => {
 
@@ -8,7 +8,7 @@ export default (props) => {
             <header style={{ 
                 marginBottom: `-1rem`, 
                 paddingLeft: `10px`, 
-                backgroundColor: `#008080`, 
+                backgroundColor: `#008080`,
                 textAlign: props.textAlign }}>
                 <Link 
                     to="/" 
@@ -26,9 +26,9 @@ export default (props) => {
             </header>
             <nav style={{ marginTop: `1.5em`, textAlign: `center` }}>
                 <div>
-                    <Link to="/recipes" style={{ textShadow: `none`, backgroundImage: `none`, textDecoration: `none`, color: `teal` }}>
+                    {/* <Link to="/recipes" style={{ textShadow: `none`, backgroundImage: `none`, textDecoration: `none`, color: `teal` }}>
                         <h4 style={{ display: `inline` }}>Recipes</h4>
-                    </Link>
+                    </Link> */}
                     {/* &nbsp; | &nbsp;
                     <Link to="/coding" style={{ textShadow: `none`, backgroundImage: `none`, textDecoration: `none`, color: `teal` }}>
                         <h4 style={{ display: `inline` }}>Technology</h4>

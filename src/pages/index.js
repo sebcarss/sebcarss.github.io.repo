@@ -7,9 +7,6 @@ export default ({ data }) => {
     return (
         <Layout>
             <div>
-                <div>
-                    Hey, my name is Seb, welcome to my blog.
-                </div>
                 <div style={{ marginTop: `1em` }}>
                     {data.allMarkdownRemark.edges.map(({ node }) => (
                         <div key={node.id} style={{ clear: `left`, marginBottom: `1em`, borderBottom: `solid 1px teal` }}>

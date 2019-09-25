@@ -6,7 +6,10 @@ export default ({ children }) => {
         <div>
             <Header textAlign="center" />
 
-            <div style={{ margin: `0 auto`, maxWidth: 650, padding: `1.25rem 1rem` }}>
+            <div style={{ 
+                margin: `0 auto`, 
+                maxWidth: 650, 
+                padding: `1.25rem 1rem` }}>
                 {children}
             </div>
         </div>

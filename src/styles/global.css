@@ -1,0 +1,9 @@
+html {
+    background-color: white;
+    
+}
+
+ul li {
+    /* Minimise the spacing between the blog post bulled lists */
+    margin-top: -1em;
+}
